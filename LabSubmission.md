@@ -7,6 +7,7 @@
 > ***Consignment Agreement***
 
 
+
 ## Consignment Agreement View
 
 ### 0NF - Meta Data
@@ -31,8 +32,7 @@
 
 **Customer Consignment View** <span class="md"><b class="pk">Customer ID, Customer Firstname, Customer Lastname, Date,</span>
 
-<img src="database/data123.png">
-
+###ERD
 ***Staff Training***
 ### 0NF - Meta Data
 
